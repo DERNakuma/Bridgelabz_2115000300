@@ -1,4 +1,3 @@
-# Bridgelabz_2115000300
 Date:19-01-25
 
 Assisted Problems
