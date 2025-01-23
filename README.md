@@ -24,6 +24,7 @@ Self Problems
 
 5>Convert Kilometers to Miles
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Date:21-01-2025
 
@@ -88,4 +89,88 @@ Level 2 Practice Programs
 
 12.Create a program to convert weight in pounds to kilograms.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Date: 23-01-2025
+
+Level-1
+
+1> Write a program to check if a number is divisible by 5
+
+2> Write a program to check if the first is the smallest of the 3 numbers.
+
+3>Write a program to check if the first, second, or third number is the largest of the three.
+
+4>Write a program to check for the natural number and write the sum of n natural numbers
+
+5>Write a program to check whether a person can vote, depending on whether his/her age is greater than or equal to 18.
+
+6>Write a program to check whether a number is positive, negative, or zero.
+
+7>Write a program SpringSeason that takes two int values month and day from the command line and prints “Its a Spring Season” otherwise prints “Not a Spring Season”.
+
+8>Write a program to count down the number from the user input value to 1 using a while loop for a rocket launch
+
+9> Rewrite program 8 to do the countdown using the for-loop
+
+10> Write a program to find the sum of numbers until the user enters 0
+
+11> Rewrite the program 10 to find the sum until the user enters 0 or a negative number using while loop and break statement
+
+12> Write a program to find the sum of n natural numbers using while loop compare the result with the formulae n*(n+1)/2 and show the result from both computations was correct.
+
+13> Rewrite the program number 12 with the for loop instead of a while loop to find the sum of n Natural Numbers.
+
+14> Write a Program to find the factorial of an integer entered by the user.
+
+15> Rewrite program 14 using for loop
+
+16> Create a program to print odd and even numbers between 1 to the number entered by the user.
+
+17> Create a program to find the bonus of employees based on their years of service.
+
+18> Create a program to find the multiplication table of a number entered by the user from 6 to 9.
+
+Level-2
+
+1.Write a LeapYear program that takes a year as input and outputs the Year is a Leap Year or not a Leap Year.
+
+2.Rewrite program 1 to determine Leap Year with single if condition using logical and && and or || operators
+
+3.Write a program to input marks and 3 subjects physics, chemistry and maths. Compute the percentage and then calculate the grade as per the following guidelines
+
+4.Write a Program to check if the given number is a prime number or not
+
+5.Write a program FizzBuzz, take a number as user input, and if it is a positive integer loop from 0 to the number and print the number, but for multiples of 3 print "Fizz" instead of the number, for 
+  multiples of 5 print "Buzz", and for multiples of both print "FizzBuzz".
+  
+6.Rewrite the program 5 FizzBuzz using while loop
+
+7.Create a program to find the BMI of a person
+
+8.Create a program to find the youngest friends among 3 Amar, Akbar, and Anthony based on their ages and the tallest among the friends based on their heights
+
+9.Create a program to print the greatest factor of a number beside itself using a loop.
+
+10.Create a program to find the power of a number.
+
+11.Create a program to find the factors of a number taken as user input.
+
+12.Create a program to find all the multiple of a number taken as user input below 100.
+
+
+Level-3
+
+1.Create a program to check if a number is Armstrong or not. Use the hints to show the steps clearly in the code
+
+2.Create a program to count the number of digits in an integer.
+
+3.Create a program to check if a number taken from the user is a Harshad Number.
+
+4.Create a program to check if a number is an Abundant Number.
+
+5.Write a program DayOfWeek that takes a date as input and prints the day of the week that the date falls on. Your program should take three command-line arguments: m (month), d (day), and y (year). For m 
+ .use 1 for January, 2 for February, and so forth. For output print 0 for Sunday, 1 for Monday, 2 for Tuesday, and so forth. Use the following formulas, for the Gregorian calendar (where / denotes integer 
+ division): y0 = y − (14 − m) / 12 x = y0 + y0/4 − y0/100 + y0/400 m0 = m + 12 × ((14 − m) / 12) − 2 d0 = (d + x + 31m0 / 12) mod 7
+ 
+6.Write a program to create a calculator using switch...case.
 
