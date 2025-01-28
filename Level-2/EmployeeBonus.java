@@ -6,11 +6,9 @@ public class EmployeeBonus {
         double[] yearsOfService = new double[10];
         double[] bonus = new double[10];
         double[] newSalaries = new double[10];
-        
         double totalBonus = 0.0;
         double totalOldSalary = 0.0;
         double totalNewSalary = 0.0;
-
         for (int i = 0; i < 10; i++) {
             System.out.println("Enter salary and years of service for employee " + (i + 1));
 
