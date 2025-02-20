@@ -38,8 +38,8 @@ class CircularBuffer {
         buffer.insert(1);
         buffer.insert(2);
         buffer.insert(3);
-        System.out.println(java.util.Arrays.toString(buffer.getBuffer())); // Output: [1, 2, 3]
+        System.out.println(java.util.Arrays.toString(buffer.getBuffer())); 
         buffer.insert(4);
-        System.out.println(java.util.Arrays.toString(buffer.getBuffer())); // Output: [2, 3, 4]
+        System.out.println(java.util.Arrays.toString(buffer.getBuffer())); 
     }
 }
