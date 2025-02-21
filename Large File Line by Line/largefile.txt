@@ -1,0 +1,15 @@
+This is a normal log line 1
+This is a normal log line 2
+This is a normal log line 3
+...
+This is a normal log line 999
+This is an error message at line 1000
+This is a normal log line 1001
+This is a normal log line 1002
+...
+This is a normal log line 1999
+This is an error message at line 2000
+This is a normal log line 2001
+...
+This is a normal log line 999999
+This is an error message at line 1000000
